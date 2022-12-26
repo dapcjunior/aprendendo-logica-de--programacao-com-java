@@ -1,2 +1,2 @@
-#Aprendendo logica de programaçção com java
- Repositorio criado para postar os exercicios feito ultilizando java
+#Aprendendo logica de programação
+ Repositorio criado para postar os exercicios e atividades
